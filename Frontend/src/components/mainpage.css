@@ -1,0 +1,10 @@
+.main-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+.pages-container {
+    width: 80%;
+    height: 100%;
+}
